@@ -187,4 +187,9 @@ You are tasked with creating an authentication and authorization microservice fo
 ---
 
 ---
+Submission Steps:
+- Clone the master branch.
+- Create a new branch
+- Push your code into the new branch.
+- Create documentation.
 ---
