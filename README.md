@@ -35,7 +35,7 @@ You are tasked with creating an authentication and authorization microservice fo
 
 ### 7. Database
 - Use a database to store user information and roles.
-- Choose either a SQL database (e.g., PostgreSQL) or a NoSQL database (e.g., MongoDB).
+- Use MySQL Database.
 
 ### 8. Documentation
 - Provide clear instructions on how to set up and run the microservice.
